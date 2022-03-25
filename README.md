@@ -4,6 +4,7 @@ Simple shoot 'em up game made in Unity3D
 
 The main principle of this game is simple, player moves via WASD keys and rotates his spaceship with mouse and shoots with left mouse button. Game offers one special ability "quick shift" - after pressing shift key on keybord, player shifts in destination he is currently traveling to.
 ![image](https://user-images.githubusercontent.com/99544664/160119025-5c407e41-feb3-475c-829a-c31e96925176.png)
+
 On the bottom of the screen there are 3 counters, the left one represents game currency which can be spent in upgrade menu after pressing TAB button.
 
 In the center of the screen lays score counter and on the right number of lifes remaining.
